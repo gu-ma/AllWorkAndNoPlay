@@ -46,15 +46,15 @@ public:
         //
         startTime = ofGetElapsedTimef();
         rawMsgWords = ofSplitString(rawMsg, " ", false, true);
-        float timePerWord = 58 / ofToFloat(rate); // Bad rate
+        float timePerWord = 45 / ofToFloat(rate); // Bad rate !!
         float timePerMsg = rawMsgWords.size() * timePerWord;
         endTime = startTime + timePerMsg;
-        cout << "" << endl;
-        cout << "number of words: " + ofToString(rawMsgWords.size()) << endl;
-        cout << "startTime: " + ofToString(startTime) << endl;
-        cout << "endTime: " + ofToString(endTime) << endl;
-        cout << "msg: " + rawMsg << endl;
-        cout << "" << endl;
+//        cout << "" << endl;
+//        cout << "number of words: " + ofToString(rawMsgWords.size()) << endl;
+//        cout << "startTime: " + ofToString(startTime) << endl;
+//        cout << "endTime: " + ofToString(endTime) << endl;
+//        cout << "msg: " + rawMsg << endl;
+//        cout << "" << endl;
         //
         startSpeaking = true;
     }
@@ -89,7 +89,7 @@ public:
         if( rawMsgWordsIndex < rawMsgWords.size() && rawMsgWordsIndex!=wordIndex){
             currentWord = rawMsgWords[rawMsgWordsIndex];
             wordIndex = rawMsgWordsIndex;
-            cout <<  "" +  ofToString(ofGetElapsedTimef()) + " - " + currentWord << endl;
+//            cout <<  "" +  ofToString(ofGetElapsedTimef()) + " - " + currentWord << endl;
             return true;
         } else {
             return false;

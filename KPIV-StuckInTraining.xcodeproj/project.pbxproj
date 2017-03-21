@@ -3936,270 +3936,6 @@
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
-			<key>CCDC6F9CCF925CC402160B85</key>
-			<dict>
-				<key>children</key>
-				<array>
-					<string>21BDE665988474F1B1F4D302</string>
-				</array>
-				<key>isa</key>
-				<string>PBXGroup</string>
-				<key>name</key>
-				<string>src</string>
-				<key>sourceTree</key>
-				<string>&lt;group&gt;</string>
-			</dict>
-			<key>FB84AAF8D1B7A95266DB5C09</key>
-			<dict>
-				<key>fileRef</key>
-				<string>21BDE665988474F1B1F4D302</string>
-				<key>isa</key>
-				<string>PBXBuildFile</string>
-			</dict>
-			<key>21BDE665988474F1B1F4D302</key>
-			<dict>
-				<key>explicitFileType</key>
-				<string>sourcecode.cpp.cpp</string>
-				<key>fileEncoding</key>
-				<string>30</string>
-				<key>isa</key>
-				<string>PBXFileReference</string>
-				<key>name</key>
-				<string>jsoncpp.cpp</string>
-				<key>path</key>
-				<string>../../../addons/ofxJSON/libs/jsoncpp/src/jsoncpp.cpp</string>
-				<key>sourceTree</key>
-				<string>SOURCE_ROOT</string>
-			</dict>
-			<key>2C7CF000B7B4F782C187C353</key>
-			<dict>
-				<key>explicitFileType</key>
-				<string>sourcecode.c.h</string>
-				<key>fileEncoding</key>
-				<string>30</string>
-				<key>isa</key>
-				<string>PBXFileReference</string>
-				<key>name</key>
-				<string>json.h</string>
-				<key>path</key>
-				<string>../../../addons/ofxJSON/libs/jsoncpp/include/json/json.h</string>
-				<key>sourceTree</key>
-				<string>SOURCE_ROOT</string>
-			</dict>
-			<key>58AD3BD71B781D9BC25763C8</key>
-			<dict>
-				<key>children</key>
-				<array>
-					<string>61313493CDB52744E22A604D</string>
-					<string>2C7CF000B7B4F782C187C353</string>
-				</array>
-				<key>isa</key>
-				<string>PBXGroup</string>
-				<key>name</key>
-				<string>json</string>
-				<key>sourceTree</key>
-				<string>&lt;group&gt;</string>
-			</dict>
-			<key>D486FC87F063317BB47E9FAC</key>
-			<dict>
-				<key>children</key>
-				<array>
-					<string>58AD3BD71B781D9BC25763C8</string>
-				</array>
-				<key>isa</key>
-				<string>PBXGroup</string>
-				<key>name</key>
-				<string>include</string>
-				<key>sourceTree</key>
-				<string>&lt;group&gt;</string>
-			</dict>
-			<key>977A836DD2C489CCC5E330FF</key>
-			<dict>
-				<key>children</key>
-				<array>
-					<string>D486FC87F063317BB47E9FAC</string>
-					<string>CCDC6F9CCF925CC402160B85</string>
-				</array>
-				<key>isa</key>
-				<string>PBXGroup</string>
-				<key>name</key>
-				<string>jsoncpp</string>
-				<key>sourceTree</key>
-				<string>&lt;group&gt;</string>
-			</dict>
-			<key>F40E80CB2D443CBA9581DD03</key>
-			<dict>
-				<key>children</key>
-				<array>
-					<string>977A836DD2C489CCC5E330FF</string>
-				</array>
-				<key>isa</key>
-				<string>PBXGroup</string>
-				<key>name</key>
-				<string>libs</string>
-				<key>sourceTree</key>
-				<string>&lt;group&gt;</string>
-			</dict>
-			<key>61313493CDB52744E22A604D</key>
-			<dict>
-				<key>explicitFileType</key>
-				<string>sourcecode.c.h</string>
-				<key>fileEncoding</key>
-				<string>30</string>
-				<key>isa</key>
-				<string>PBXFileReference</string>
-				<key>name</key>
-				<string>json-forwards.h</string>
-				<key>path</key>
-				<string>../../../addons/ofxJSON/libs/jsoncpp/include/json/json-forwards.h</string>
-				<key>sourceTree</key>
-				<string>SOURCE_ROOT</string>
-			</dict>
-			<key>26A541233BC6F736E758F718</key>
-			<dict>
-				<key>explicitFileType</key>
-				<string>sourcecode.c.h</string>
-				<key>fileEncoding</key>
-				<string>30</string>
-				<key>isa</key>
-				<string>PBXFileReference</string>
-				<key>name</key>
-				<string>ofxJSONElement.h</string>
-				<key>path</key>
-				<string>../../../addons/ofxJSON/src/ofxJSONElement.h</string>
-				<key>sourceTree</key>
-				<string>SOURCE_ROOT</string>
-			</dict>
-			<key>BEDFEE7400C58EA4E412B757</key>
-			<dict>
-				<key>fileRef</key>
-				<string>F2B099E6BD1199664C48B177</string>
-				<key>isa</key>
-				<string>PBXBuildFile</string>
-			</dict>
-			<key>F2B099E6BD1199664C48B177</key>
-			<dict>
-				<key>explicitFileType</key>
-				<string>sourcecode.cpp.cpp</string>
-				<key>fileEncoding</key>
-				<string>30</string>
-				<key>isa</key>
-				<string>PBXFileReference</string>
-				<key>name</key>
-				<string>ofxJSONElement.cpp</string>
-				<key>path</key>
-				<string>../../../addons/ofxJSON/src/ofxJSONElement.cpp</string>
-				<key>sourceTree</key>
-				<string>SOURCE_ROOT</string>
-			</dict>
-			<key>292AF6148769654D0DF26018</key>
-			<dict>
-				<key>children</key>
-				<array>
-					<string>1645F56257269CD0356320BD</string>
-					<string>F2B099E6BD1199664C48B177</string>
-					<string>26A541233BC6F736E758F718</string>
-				</array>
-				<key>isa</key>
-				<string>PBXGroup</string>
-				<key>name</key>
-				<string>src</string>
-				<key>sourceTree</key>
-				<string>&lt;group&gt;</string>
-			</dict>
-			<key>2865DAEF86B1907A704CA70B</key>
-			<dict>
-				<key>children</key>
-				<array>
-					<string>292AF6148769654D0DF26018</string>
-					<string>F40E80CB2D443CBA9581DD03</string>
-				</array>
-				<key>isa</key>
-				<string>PBXGroup</string>
-				<key>name</key>
-				<string>ofxJSON</string>
-				<key>sourceTree</key>
-				<string>&lt;group&gt;</string>
-			</dict>
-			<key>1645F56257269CD0356320BD</key>
-			<dict>
-				<key>explicitFileType</key>
-				<string>sourcecode.c.h</string>
-				<key>fileEncoding</key>
-				<string>30</string>
-				<key>isa</key>
-				<string>PBXFileReference</string>
-				<key>name</key>
-				<string>ofxJSON.h</string>
-				<key>path</key>
-				<string>../../../addons/ofxJSON/src/ofxJSON.h</string>
-				<key>sourceTree</key>
-				<string>SOURCE_ROOT</string>
-			</dict>
-			<key>FF2B018E24837032A4878576</key>
-			<dict>
-				<key>explicitFileType</key>
-				<string>sourcecode.c.h</string>
-				<key>fileEncoding</key>
-				<string>30</string>
-				<key>isa</key>
-				<string>PBXFileReference</string>
-				<key>name</key>
-				<string>ofxEasing.h</string>
-				<key>path</key>
-				<string>../../../addons/ofxEasing/src/ofxEasing.h</string>
-				<key>sourceTree</key>
-				<string>SOURCE_ROOT</string>
-			</dict>
-			<key>E78F8991E56DEF594815BB53</key>
-			<dict>
-				<key>children</key>
-				<array>
-					<string>528CB0EB22F0A199A5F479D5</string>
-					<string>FF2B018E24837032A4878576</string>
-				</array>
-				<key>isa</key>
-				<string>PBXGroup</string>
-				<key>name</key>
-				<string>src</string>
-				<key>sourceTree</key>
-				<string>&lt;group&gt;</string>
-			</dict>
-			<key>0D0595A62FF5ED8D37029107</key>
-			<dict>
-				<key>children</key>
-				<array>
-					<string>E78F8991E56DEF594815BB53</string>
-				</array>
-				<key>isa</key>
-				<string>PBXGroup</string>
-				<key>name</key>
-				<string>ofxEasing</string>
-				<key>sourceTree</key>
-				<string>&lt;group&gt;</string>
-			</dict>
-			<key>08C23182D394C53F6ECE6CCC</key>
-			<dict>
-				<key>fileRef</key>
-				<string>528CB0EB22F0A199A5F479D5</string>
-				<key>isa</key>
-				<string>PBXBuildFile</string>
-			</dict>
-			<key>528CB0EB22F0A199A5F479D5</key>
-			<dict>
-				<key>explicitFileType</key>
-				<string>file</string>
-				<key>fileEncoding</key>
-				<string>30</string>
-				<key>isa</key>
-				<string>PBXFileReference</string>
-				<key>name</key>
-				<string>easing_terms_of_use.html</string>
-				<key>path</key>
-				<string>../../../addons/ofxEasing/src/easing_terms_of_use.html</string>
-				<key>sourceTree</key>
-				<string>SOURCE_ROOT</string>
-			</dict>
 			<key>21E1E3071CB7B11914428B62</key>
 			<dict>
 				<key>explicitFileType</key>
@@ -5612,6 +5348,21 @@
 				<key>sourceTree</key>
 				<string>SOURCE_ROOT</string>
 			</dict>
+			<key>3252684B51C2D2D9C7749C7A</key>
+			<dict>
+				<key>explicitFileType</key>
+				<string>sourcecode.c.h</string>
+				<key>fileEncoding</key>
+				<string>30</string>
+				<key>isa</key>
+				<string>PBXFileReference</string>
+				<key>name</key>
+				<string>ofxCenteredTrueTypeFont.h</string>
+				<key>path</key>
+				<string>src/ofxCenteredTrueTypeFont.h</string>
+				<key>sourceTree</key>
+				<string>SOURCE_ROOT</string>
+			</dict>
 			<key>E8471DDCECD812E98F455585</key>
 			<dict>
 				<key>explicitFileType</key>
@@ -5675,8 +5426,6 @@
 					<string>2BD862020B7783ABB823FBFF</string>
 					<string>6025FAF6414C2CA589764D26</string>
 					<string>D8DD1043C333F6F63C8685E6</string>
-					<string>0D0595A62FF5ED8D37029107</string>
-					<string>2865DAEF86B1907A704CA70B</string>
 					<string>A0B90D3B0ADB9C1716816714</string>
 					<string>E6053AB7FEC63D5F83825B88</string>
 				</array>
@@ -5848,13 +5597,6 @@
 						<string>../../../addons/ofxDatGui/src/libs</string>
 						<string>../../../addons/ofxDatGui/src/libs/ofxSmartFont</string>
 						<string>../../../addons/ofxDatGui/src/themes</string>
-						<string>../../../addons/ofxEasing/src</string>
-						<string>../../../addons/ofxJSON/libs</string>
-						<string>../../../addons/ofxJSON/libs/jsoncpp</string>
-						<string>../../../addons/ofxJSON/libs/jsoncpp/include</string>
-						<string>../../../addons/ofxJSON/libs/jsoncpp/include/json</string>
-						<string>../../../addons/ofxJSON/libs/jsoncpp/src</string>
-						<string>../../../addons/ofxJSON/src</string>
 						<string>../../../addons/ofxOpenCv/libs</string>
 						<string>../../../addons/ofxOpenCv/libs/opencv</string>
 						<string>../../../addons/ofxOpenCv/libs/opencv/include</string>
@@ -5967,13 +5709,6 @@
 						<string>../../../addons/ofxDatGui/src/libs</string>
 						<string>../../../addons/ofxDatGui/src/libs/ofxSmartFont</string>
 						<string>../../../addons/ofxDatGui/src/themes</string>
-						<string>../../../addons/ofxEasing/src</string>
-						<string>../../../addons/ofxJSON/libs</string>
-						<string>../../../addons/ofxJSON/libs/jsoncpp</string>
-						<string>../../../addons/ofxJSON/libs/jsoncpp/include</string>
-						<string>../../../addons/ofxJSON/libs/jsoncpp/include/json</string>
-						<string>../../../addons/ofxJSON/libs/jsoncpp/src</string>
-						<string>../../../addons/ofxJSON/src</string>
 						<string>../../../addons/ofxOpenCv/libs</string>
 						<string>../../../addons/ofxOpenCv/libs/opencv</string>
 						<string>../../../addons/ofxOpenCv/libs/opencv/include</string>
@@ -6090,9 +5825,6 @@
 					<string>D3C1C48E59CAA2D68C0DD477</string>
 					<string>9CF4130A7E6DA19A3DC42B9A</string>
 					<string>C9466C434D1CF8AB968D298D</string>
-					<string>08C23182D394C53F6ECE6CCC</string>
-					<string>BEDFEE7400C58EA4E412B757</string>
-					<string>FB84AAF8D1B7A95266DB5C09</string>
 					<string>250A95BA26587BE85DB0A353</string>
 					<string>1D5F3298C2FA073628012944</string>
 					<string>169D3C72FDE6C5590A1616F5</string>
@@ -6211,13 +5943,6 @@
 						<string>../../../addons/ofxDatGui/src/libs</string>
 						<string>../../../addons/ofxDatGui/src/libs/ofxSmartFont</string>
 						<string>../../../addons/ofxDatGui/src/themes</string>
-						<string>../../../addons/ofxEasing/src</string>
-						<string>../../../addons/ofxJSON/libs</string>
-						<string>../../../addons/ofxJSON/libs/jsoncpp</string>
-						<string>../../../addons/ofxJSON/libs/jsoncpp/include</string>
-						<string>../../../addons/ofxJSON/libs/jsoncpp/include/json</string>
-						<string>../../../addons/ofxJSON/libs/jsoncpp/src</string>
-						<string>../../../addons/ofxJSON/src</string>
 						<string>../../../addons/ofxOpenCv/libs</string>
 						<string>../../../addons/ofxOpenCv/libs/opencv</string>
 						<string>../../../addons/ofxOpenCv/libs/opencv/include</string>
@@ -6320,13 +6045,6 @@
 						<string>../../../addons/ofxDatGui/src/libs</string>
 						<string>../../../addons/ofxDatGui/src/libs/ofxSmartFont</string>
 						<string>../../../addons/ofxDatGui/src/themes</string>
-						<string>../../../addons/ofxEasing/src</string>
-						<string>../../../addons/ofxJSON/libs</string>
-						<string>../../../addons/ofxJSON/libs/jsoncpp</string>
-						<string>../../../addons/ofxJSON/libs/jsoncpp/include</string>
-						<string>../../../addons/ofxJSON/libs/jsoncpp/include/json</string>
-						<string>../../../addons/ofxJSON/libs/jsoncpp/src</string>
-						<string>../../../addons/ofxJSON/src</string>
 						<string>../../../addons/ofxOpenCv/libs</string>
 						<string>../../../addons/ofxOpenCv/libs/opencv</string>
 						<string>../../../addons/ofxOpenCv/libs/opencv/include</string>
@@ -6414,6 +6132,7 @@
 					<string>3FE24807539DB5C156DC9E6E</string>
 					<string>BD1497C29327F33C80323DAE</string>
 					<string>E8471DDCECD812E98F455585</string>
+					<string>3252684B51C2D2D9C7749C7A</string>
 				</array>
 				<key>isa</key>
 				<string>PBXGroup</string>

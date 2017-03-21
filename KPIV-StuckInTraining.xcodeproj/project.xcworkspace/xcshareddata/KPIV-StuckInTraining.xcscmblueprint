@@ -1,29 +1,30 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9016CE8A60A46D9F81BEBAE0CF5C9BB1B207101B",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0361AFE3440E3BD39E4B5047FB06C76092761898",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "86145F1292B789AB93966AE12565F1D778504ABC" : 9223372036854775807,
     "39642EB9A7960140EE36619E322E5815FF36D10C" : 9223372036854775807,
     "9233F0F4A2BE011BD468E5177A5AD6623263B23D" : 9223372036854775807,
-    "9016CE8A60A46D9F81BEBAE0CF5C9BB1B207101B" : 9223372036854775807,
     "37526DA425E5430474A14FBFA1BC4525160B5FC1" : 9223372036854775807,
-    "5DB7C332A3A89035E93556A2A38BF414005BA671" : 9223372036854775807
+    "0361AFE3440E3BD39E4B5047FB06C76092761898" : 9223372036854775807
   },
-  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "11D90137-F9C1-4C4F-86CD-776AC5C76EAB",
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "5CD3143A-C9E3-4F64-A517-F19E85EED8A7",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "86145F1292B789AB93966AE12565F1D778504ABC" : "..\/..\/addons\/ofxEasing",
     "39642EB9A7960140EE36619E322E5815FF36D10C" : "..\/..\/addons\/ofxAbletonLive",
     "9233F0F4A2BE011BD468E5177A5AD6623263B23D" : "..\/..\/addons\/ofxDatGui",
-    "9016CE8A60A46D9F81BEBAE0CF5C9BB1B207101B" : "KPIV-StuckInTraining\/",
     "37526DA425E5430474A14FBFA1BC4525160B5FC1" : "..\/..\/addons\/ofxCv",
-    "5DB7C332A3A89035E93556A2A38BF414005BA671" : "..\/..\/addons\/ofxJSON"
+    "0361AFE3440E3BD39E4B5047FB06C76092761898" : "KPIV-StuckInTraining\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "KPIV-StuckInTraining",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
   "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "KPIV-StuckInTraining.xcodeproj",
   "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/gu-ma\/AllWorkAndNoPlay.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0361AFE3440E3BD39E4B5047FB06C76092761898"
+    },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:kylemcdonald\/ofxCv.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
@@ -33,21 +34,6 @@
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/genekogan\/ofxAbletonLive.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "39642EB9A7960140EE36619E322E5815FF36D10C"
-    },
-    {
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/jefftimesten\/ofxJSON.git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5DB7C332A3A89035E93556A2A38BF414005BA671"
-    },
-    {
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/arturoc\/ofxEasing.git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "86145F1292B789AB93966AE12565F1D778504ABC"
-    },
-    {
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:gu-ma\/ExtensiveIndifference.git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9016CE8A60A46D9F81BEBAE0CF5C9BB1B207101B"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/braitsch\/ofxDatGui.git",
